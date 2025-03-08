@@ -1,2 +1,1 @@
-# coding-project-template
-This repo is for the practice project which is to be based on Embedded AI libraries. 
+This is a guided project, part of the IBM Genarative AI Engineering professional certificate course offered by Coursera and authorized by IBM.
